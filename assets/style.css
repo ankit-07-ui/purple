@@ -1,0 +1,49 @@
+.profession{
+    
+    background-image: url('https://cdn.dribbble.com/users/348324/screenshots/3896454/media/869d4093f16b41e61659acd8ed3b8d7e.gif');
+}
+
+h1{
+    color: #940B92;
+    font-family: 'Caveat', cursive;
+
+}
+.webdev {
+      color: #940B92;
+      font-family: 'Caveat', cursive;
+}
+.name{
+    color:#610C9F;
+}
+.btn-bd-primary {
+  --bs-btn-font-weight: 600;
+  --bs-btn-color: var(--bs-white);
+  --bs-btn-bg: #610C9F;
+  --bs-btn-border-color: #610C9F;
+  
+ 
+}
+.aboutme-btn:hover{
+    background-color: #3a0162;
+    color: white;
+}
+small{
+    color:#610C9F
+}
+.skills-h2{
+     color:#940B92;
+     font-size: 50px;
+     text-align: center;
+}
+.img-skills{
+    border-radius: 50%;
+    width:200px
+}
+.nav-link {
+    color:#610C9F !important;
+    
+}
+.heart{
+    float:left;
+    width: 50px;
+}
